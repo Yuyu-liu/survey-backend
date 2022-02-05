@@ -1,4 +1,4 @@
-package com.surveybackend;
+package com.survey.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
